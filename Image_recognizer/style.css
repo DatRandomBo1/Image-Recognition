@@ -1,0 +1,16 @@
+body {
+    color:mediumturquoise;
+    background:grey;
+}
+.heading{
+    width:80%;
+    font-size:23px;
+}
+.name_of_objects{
+    color:fuchsia;
+}
+#camera{
+    border: 2px ridge cornflowerblue;
+    width: 350px;
+    height: 300px;
+}
